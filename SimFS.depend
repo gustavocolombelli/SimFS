@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1510238119 source:c:\users\admin\desktop\simfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ferramentas.h"
+
+1510238219 c:\users\admin\desktop\simfs\ferramentas.h
+
+1510576991 source:c:\users\gusta\desktop\dev\estudos\programas\simfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ferramentas.h"
+
+1510576981 c:\users\gusta\desktop\dev\estudos\programas\simfs\ferramentas.h
+
+1510617058 source:c:\users\lab-cc\desktop\simfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ferramentas.h"
+
+1510615955 c:\users\lab-cc\desktop\simfs\ferramentas.h
+
+1511616639 source:c:\users\gusta\desktop\simfs1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ferramentas.h"
+
+1511617405 c:\users\gusta\desktop\simfs1\ferramentas.h
+
