@@ -40,6 +40,8 @@ void erro(int numeroErro){
                 break;
         case 14: printf("[ERRO %d] Nao eh um arquivo.\n", numeroErro);
                 break;
+        case 15: printf("[ERRO %d] Nao foi possivel realizar esta acao.\n", numeroErro);
+                break;
 
     }
 }

@@ -31,3 +31,11 @@
 
 1511617405 c:\users\gusta\desktop\simfs1\ferramentas.h
 
+1511781849 source:c:\users\gusta\desktop\simfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ferramentas.h"
+
+1511781615 c:\users\gusta\desktop\simfs\ferramentas.h
+
